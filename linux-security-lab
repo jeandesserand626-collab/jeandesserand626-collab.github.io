@@ -1,0 +1,59 @@
+# Linux Security Lab
+
+## Objective
+
+The objective of this lab is to understand basic Linux security
+concepts, commands, file permissions, users, and groups.
+
+## Topics Covered
+
+- Linux commands
+- Users and groups
+- File permissions
+- chmod
+- sudo
+- File ownership
+- System security
+- Basic Linux troubleshooting
+
+## What I Learned
+
+I learned how Linux uses users, groups, and file permissions
+to control access to files and system resources.
+
+I also learned how commands such as chmod and sudo can be
+used to manage permissions and perform administrative tasks.
+
+## Linux Security Commands
+
+Some of the commands I studied include:
+
+- `ls`
+- `pwd`
+- `cd`
+- `whoami`
+- `id`
+- `chmod`
+- `chown`
+- `sudo`
+
+## Security Best Practices
+
+- Use strong passwords
+- Give users only the permissions they need
+- Keep Linux systems updated
+- Avoid using sudo unnecessarily
+- Protect sensitive files
+- Review file permissions regularly
+- Use trusted software and repositories
+
+## What This Lab Demonstrates
+
+This lab demonstrates my understanding of basic Linux
+security concepts and access control.
+
+## Conclusion
+
+This lab helped me understand how Linux manages users,
+permissions, and access to system resources. These concepts
+are important foundations for cybersecurity.
